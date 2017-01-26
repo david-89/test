@@ -11,4 +11,8 @@ package learninggit;
  */
 public class Milan {
     //testing git; hopefully this ends up on github...
+    
+    public String lolz(){
+        return "lolz";
+    }
 }
